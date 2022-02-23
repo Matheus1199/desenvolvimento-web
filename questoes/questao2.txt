@@ -1,0 +1,9 @@
+Pai, mãe e seu casal de filhos estão sentados em volta de uma mesa quadrada. Os homens chamam-se Roberto e Sérgio, e as mulheres, Teresa e Fernanda. Sabe-se que o pai tem Fernanda a sua frente e o filho a esquerda, a mãe está ao lado direito de Sérgio. Quais das seguintes afirmações são verdadeiras?
+
+Pai chama Sérgio
+
+Filha chama Fernanda
+
+Filho chama Roberto
+
+Mãe chama Teresa

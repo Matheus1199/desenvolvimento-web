@@ -1,0 +1,12 @@
+Ana, Beth, Carla, Diana e Natalina aniversariam, não necessariamente nessa ordem, em 1° de março, 17 de maio, 20 de julho, 20 de março e 25 de dezembro. Beth e Carla nasceram no mesmo mês, Ana e Carla no mesmo dia, mas em meses diferentes. Já Natalina, recebeu seu nome em homenagem ao dia do seu nascimento. Qual delas nasceu em 17 de maio?
+
+Beth e Carla nasceram em março
+
+Carla nasceu dia 20 de março
+Ana nasceu dia 20 de julho
+Beth nasceu dia 1 de março 
+
+Natalina nasceu dia 25 de dezembro
+
+Diana nasceu dia 17 de maio
+
