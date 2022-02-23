@@ -5,4 +5,3 @@ if (passou_na_escola == true) {
 } else {
     document.write("Vai ficar em casa!");
 }
-
