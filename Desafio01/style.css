@@ -3,19 +3,12 @@
 nav {
     background-color: red;
     width: 100%;
-}
-
-nav > a {
     text-align: center;
-}
-
-#logo-do-site {
-    width: 150px;
 }
 
 nav > a.link-menu {
     color: white;
-    
+    width: 25%;
 }
 
 body {
@@ -26,3 +19,22 @@ h4 {
     color: red;
 }
 
+table.table {
+    border: 0px;
+    width: 100%;
+    padding: 0px; 
+}
+
+table.table > td {
+    width: 20%;
+    vertical-align: top;
+}
+
+#preco {
+    font-size: large;
+    color: red;
+}
+
+#desconto {
+    font-size: small;
+}
