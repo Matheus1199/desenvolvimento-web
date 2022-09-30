@@ -1,4 +1,4 @@
-class Pessoa{
+class Pessoa{ 
     constructor(nome) {
         this.nome = nome;
     }
@@ -25,3 +25,9 @@ var p1 = new Aluno("Francisco");
 p1.falar("Oi, tudo bem?");
 p1.falar("Como vai?");
 p1.estudar("Programação")
+
+var p2 = new Professor("Geraldo");
+
+p2.falar("Oi, tudo bem?");
+p2.falar("Como vai?");
+p2.ensina("Programação")

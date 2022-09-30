@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+table { 
+    background-color: red;
+    width: 100%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.link-menu {
+    color: white; 
+}
+
+img#logo {
+    width: 100px;
+}
+
+h4 {
+    color: red;
+}
