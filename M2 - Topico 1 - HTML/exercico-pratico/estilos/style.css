@@ -1,8 +1,11 @@
 @charset "UTF-8";
 
 table { 
-    background-color: red;
     width: 100%;
+}
+
+.menu {
+    background-color: red;
 }
 
 body {
@@ -19,4 +22,14 @@ img#logo {
 
 h4 {
     color: red;
+}
+
+table#produtos {
+    border: 0px;
+    width: 100%;
+}
+
+.produtos {
+    width: 20%;
+    vertical-align: top;
 }
